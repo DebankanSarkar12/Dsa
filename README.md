@@ -1,1 +1,1 @@
-## I have started Data structures and Algorithms on August 15, 2022, and this repository will be containing my resources, tutorial, codes, and my approach to Qs, for future reference. As I'm in the learning process, this repository will be refreshed daily with my new bits of knowledge.
+### I have started Data structures and Algorithms on August 15, 2022, and this repository will be containing my resources, tutorial, codes, and my approach to Qs, for future reference. As I'm in the learning process, this repository will be refreshed daily with my new bits of knowledge.
