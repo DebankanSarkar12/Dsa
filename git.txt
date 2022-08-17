@@ -1,0 +1,15 @@
+
+Make a folder 
+
+git clone https://github.com/DebankanSarkar12/Dsa.git
+cd Dsa/
+ls -l
+git status
+git add -A
+git status
+git commit -m "file1added"
+git push
+
+make authentication 
+
+Done !!
